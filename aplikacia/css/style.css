@@ -11,6 +11,27 @@ body {
 header {
   background-color: #131313;
 }
+.hlavicka{
+  display: flex;
+  position: relative;
+  align-items: center;
+  z-index: 99999;
+  justify-content: center;
+  text-align: center;
+  color: var(--light);
+  width: 100%;
+  height: auto;
+  text-shadow: 0px 0px 15px rgba(7, 7, 7, 0.7);
+}
+
+.hlavicka p{
+  margin: 0;
+  font-style: italic;
+}
+.hlavicka img{
+  width: 2000px;
+  height: auto;
+}
 
 .main-nav {
   height: 90px;
