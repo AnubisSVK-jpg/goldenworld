@@ -11,17 +11,14 @@ body {
 header {
   background-color: #131313;
 }
-.hlavicka{
-  display: flex;
+.hlavicka {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
-  align-items: center;
-  z-index: -10;
-  justify-content: center;
-  text-align: center;
-  color: var(--light);
-  width: 100%;
-  height: auto;
-  text-shadow: 0px 0px 15px rgba(7, 7, 7, 0.7);
+  display: flex;
 }
 
 .text-center{
@@ -92,6 +89,8 @@ header {
   display: none;
   cursor: pointer;
 }
+
+
 
 @media (max-width: 800px) {
   .navlinks {
