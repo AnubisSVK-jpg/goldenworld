@@ -41,6 +41,11 @@ header {
   color: white;
   text-align: center;
 }
+
+.text-left{
+  color: white;
+  text-align: left;
+}
 .hlavicka p{
   margin: 0;
   font-style: italic;
