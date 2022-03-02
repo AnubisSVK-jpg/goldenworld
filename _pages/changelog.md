@@ -12,7 +12,7 @@ Vitajte na novom webe, dúfam, že sa Vám páči. :)
 
 #### Čo je nové
 - nový web dizajn.
-<img src="https://your-github-username.github.io/your-repo-name/assets/Untitled.png" alt="Nový web dizajn" />
+<img src="https://goldenworld.ga/aplikacia/obrazky/novy-web.jpeg" alt="Nový web dizajn" />
 
 <br>
 
