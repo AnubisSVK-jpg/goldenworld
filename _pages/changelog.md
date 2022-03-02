@@ -9,7 +9,8 @@ include_in_header: true
 # **Nový web**
 Vitajte na novom webe, dúfam, že sa Vám páči. :)
 
+#### Čo je nové
+
+
 <br>
 
-________
-<br>
