@@ -7,6 +7,28 @@ body {
   overflow-x: hidden;
 }
 
+::-webkit-scrollbar {
+  width: 7px;
+  /* for vertical scrollbars */
+  height: 7px;
+  /* for horizontal scrollbars */
+}
+
+::-webkit-scrollbar-track {
+  background: goldenrod;
+}
+
+::-webkit-scrollbar-thumb {
+  background: goldenrod;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track-piece {
+  height: 30px;
+}
+
+
+
 header {
   background-color: #131313;
 }
