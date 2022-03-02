@@ -5,7 +5,7 @@ include_in_header: true
 ---
    
 <h1 class="text-center"><i class="fas fa-book"></i> PRAVIDLA</h1>
-<hr>
+<hr style="background-color: gold;">
 <div class="text-center">
     <p>1. Neníčit majetek ostatním</p>
     <p>2. Troll v určité míře je povolen ( Např. : Vytopit někomu dům. Nebo zastavět někomu místnost.... ) Musíte nechat vzkaz se svým jménem.</p>
