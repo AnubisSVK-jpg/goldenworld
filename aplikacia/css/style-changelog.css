@@ -2,10 +2,10 @@
     max-width:720px;
     margin:0 auto;
     padding-top:50px;
-    color:#b19341;
+    color:white;
 }
 .changelog-container a{
-    color: white;
+    color: darkorange;
     text-decoration:none;
 }
 .changelog-container .header,.changelog-container .logo{
