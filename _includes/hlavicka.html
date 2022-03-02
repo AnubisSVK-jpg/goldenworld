@@ -1,0 +1,26 @@
+<header>
+    <nav class="main-nav">
+      <input type="checkbox" id="check" />
+      <label for="check" class="menu-btn">
+        <i class="fas fa-bars"></i>
+      </label>
+      <a href="{{ site.urlstranky }}/" class="logo">{{ site.nazov_strany }}</a>
+      <ul class="navlinks">
+        <li><a href="{{ site.urlstranky }}/"><i class="fas fa-home"></i> DOMOV</a></li>
+        <li><a href="{{ site.urlstranky }}/pravidla"><i class="fas fa-book"></i> Pravidla</a></li>
+        <li><a href="{{ site.urlstranky }}/changelog"><i class="fas fa-sticky-note"></i> Zoznam zmien</a></li>
+        <li><a href="{{ site.urlstranky }}/adminteam"><i class="fas fa-users"></i> AdminTeam</a></li>
+      </ul>
+    </nav>
+</header>
+<div class="hlavicka">
+    <img src="aplikacia/obrazky/background.png" draggable="false" alt="banner"></img>
+    <div class="hlavicka-text">
+      <h1 style="font-size: 50px;">{{ site.nazov_strany }}</h1>
+      <hr>
+      <h2>Momentálne hrá <span data-playercounter-ip="mc.goldenworld.ga" style="color: goldenrod;">0</span> hráčov.</h2>
+      <hr>
+      <h2 style="font-size: 20px;">IP: {{ site.ip_mcserver }}</h2>
+    </div>
+</div>
+<br>

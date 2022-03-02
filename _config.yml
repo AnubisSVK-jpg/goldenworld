@@ -1,0 +1,31 @@
+#názov strany
+nazov_strany: GoldenCraft
+
+#Popis webu
+popis_webu: 
+
+#url webadresu
+urlstranky: 
+
+#Logo
+aplikacia_logo: aplikacia/obrazky/logo.jpg
+
+#Ip minecraft servera
+ip_mcserver: mc.goldenworld.ga
+
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
+# Markdown rendering
+markdown: kramdown
