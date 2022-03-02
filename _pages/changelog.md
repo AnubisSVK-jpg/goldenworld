@@ -12,7 +12,7 @@ Vitajte na novom webe, dúfam, že sa Vám páči. :)
 
 #### Čo je nové
 - nový web dizajn.
-<img src="https://goldenworld.ga/aplikacia/obrazky/novy-web.jpeg" alt="Nový web dizajn" />
+<img src="https://goldenworld.ga/aplikacia/obrazky/novy-web.jpeg" width="336" height="336" alt="Nový web dizajn" />
 
 <br>
 
