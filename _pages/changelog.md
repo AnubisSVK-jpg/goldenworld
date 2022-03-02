@@ -11,6 +11,7 @@ include_in_header: true
 Vitajte na novom webe, dúfam, že sa Vám páči. :)
 
 #### Čo je nové
+- nový web dizajn.
 
 
 <br>
