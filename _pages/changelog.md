@@ -1,5 +1,5 @@
 ---
-layout: strana
+layout: changelog
 title: Changelog
 include_in_header: true
 ---
