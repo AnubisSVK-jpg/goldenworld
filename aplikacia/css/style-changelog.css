@@ -18,7 +18,11 @@
     font-weight:700;
 }
 .changelog-container .changelog-item{
-    padding-top:35px;padding-bottom:35px;border-top:1px solid #eee;display:flex;margin:0 20px
+    padding-top:35px;
+    padding-bottom:35px;
+    border-top:1px solid #eee;
+    display:flex;
+    margin:0 20px;
 }
 @media screen and (max-width:500px){
     .changelog-container .changelog-item{flex-direction:column}.changelog-container .changelog-item .date{margin-bottom:20px}}.changelog-container .changelog-item .date{min-width:170px;vertical-align:top;opacity:.5}.changelog-container .changelog-item .content .title{font-size:28px;font-weight:600;line-height:28px}.changelog-container .changelog-item .content .type{display:inline-block;color:#fff;border-radius:30px;padding:4px 15px;margin-top:12px;margin-bottom:12px;font-size:15px;font-weight:700}.changelog-container .changelog-item .content .body{font-size:18px;font-weight:300;line-height:26px}
