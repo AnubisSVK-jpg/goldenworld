@@ -12,7 +12,7 @@ Vitajte na novom webe, dúfam, že sa Vám páči. :)
 
 #### Čo je nové
 - nový web dizajn.
-
+![Nový web dizajn](/aplikacia/obrazky/novy-web.jpeg)
 
 <br>
 
