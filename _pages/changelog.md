@@ -14,6 +14,8 @@ Vitajte na novom webe, dúfam, že sa Vám páči. :)
 - nový web dizajn.
 <br>
 <img src="https://goldenworld.ga/aplikacia/obrazky/novy-web.jpeg" width="447" height="267" alt="Nový web dizajn" />
-
+- Pridaný banlist na webe.
+<br>
+<img src="https://goldenworld.ga/aplikacia/obrazky/novy-web.jpeg" width="447" height="267" alt="Nový web dizajn" />
 <br>
 
